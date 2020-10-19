@@ -8,10 +8,14 @@
   - 분산팽창지수 VIF 계산
   - 독립변수 제거 방안 (p-value를 계산한 후진제거법)
   - 교차검증 (K-fold cross validation)
+  
+  
  - 로지스틱 회귀 : [DAT2-Logistic.ipynb](https://github.com/J-TKim/Data_mining_for_business/blob/master/DAT2-Logistic.ipynb)
    - LogisticRegression
    - 정밀도와 재현율 : precision_recall_curve
    - ROC 곡선 : roc_curve
+   
+   
   - 릿지, 랏소, 엘라스틱 회귀 : [DAT2-Ridge.ipynb](https://github.com/J-TKim/Data_mining_for_business/blob/master/DAT2-Ridge.ipynb)
     - 릿지 회귀 : sklearn.linear_model.Ridge
     - 라쏘 회귀 : sklearn.linear_model.Lasso
