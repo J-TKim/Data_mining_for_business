@@ -28,6 +28,7 @@
     - sklearn 은 LogisticRegression 에서 L2 노름을 기본 규제로 사용하고 있음
     - C 가 규제 정도를 조절하는 파라미터이고, C = 1/alpha 이기에 C 값이 높을 수록 모형의 규제가 줄어듦
     - C 도 하이퍼 파라미터 튜닝을 통해 최적값을 파악하여야 하며, 기본값은 1
+  - RMSE
 
 
 - 의사결정나무 : [DAT2-DecisionTree.ipynb](https://github.com/J-TKim/Data_mining_for_business/blob/master/DAT2-DecisionTree.ipynb)
